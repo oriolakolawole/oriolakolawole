@@ -17,14 +17,11 @@ I am a computer science graduate who is passionate about cybersecurity. I am eag
 
 
 ## 📫 Get in Touch
-- Email: your.email@example.com
-- LinkedIn: [LinkedIn Profile](your LinkedIn URL)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: oriolakolawole@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/oriolakolawole/)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 📝 Latest Blog Posts
+## 📝 Certification
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
