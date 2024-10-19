@@ -14,7 +14,7 @@ I am a computer science graduate who is passionate about cybersecurity. I am eag
 ## 💼 Current Projects
 - [**Google Cybersecurity Certificate** ](https://github.com/oriolakolawole/Google-Cybersecurity-Certificate.git): This repository contains the completed portofolio activities and exercises from the Google CyberSecurity Certification course.
 
-- [**Google Cloud Security Certificate** ](https://github.com/oriolakolawole/Google-Cloud-Security-Certificate.git): This repository contains the completed activities and exercises from the Google Cloud Security Certification course
+- [**Ransomware Detection Research Project** ](https://github.com/oriolakolawole/Ransomware-and-Goodware-PE-Header-Dataset.git): Ransomware Detection using Image-Based Representation of PE Headers: A Deep Learning Approach.
 
 
 ## 📫 Get in Touch
