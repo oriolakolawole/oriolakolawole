@@ -1,7 +1,8 @@
 # Hi, I'm Kolawole Oriola
 
 ## 🚀 Professional Summary
-I am a computer science graduate who is passionate about cybersecurity. I am eager to leverage my technical and strong organizational skills to protect sensitive information. My enthusiasm for learning and helping others will drive my commitment to continuous growth and effective risk mitigation. I am seeking an entry-level cybersecurity position to contribute my skills and knowledge to a dynamic team.
+Junior Security Engineer with one year of experience in cybersecurity, possessing strong technical expertise in cloud computing, networking, DevSecOps, and penetration testing. Known for exceptional interpersonal skills and the ability to thrive in collaborative environments. 
+Driven by the belief that "growth is directly proportional to learning," I embrace challenging problems and adapt quickly to new technologies, consistently expanding my knowledge and capabilities.
 
 ## 🛠 Skills
 - **Languages**: Python, SQL
