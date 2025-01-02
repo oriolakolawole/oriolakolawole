@@ -2,6 +2,7 @@
 
 ## 🚀 Professional Summary
 Junior Security Engineer with one year of experience in cybersecurity, possessing strong technical expertise in cloud computing, networking, DevSecOps, and penetration testing. Known for exceptional interpersonal skills and the ability to thrive in collaborative environments. 
+
 Driven by the belief that "growth is directly proportional to learning," I embrace challenging problems and adapt quickly to new technologies, consistently expanding my knowledge and capabilities.
 
 ## 🛠 Skills
