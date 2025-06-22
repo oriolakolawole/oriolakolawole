@@ -36,6 +36,10 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 
 ## 📝 Courses and Training
 - **API Penetration Testing - APISEC University** :   
-  Skills/Technologies: Penetration Testing, Endpoint Analysis.
-- Relevant Courses: API Reconnaissance, Endpoint Analysis, API Authentication Attacks, Exploiting API Authorization, Improper Assesst Management, Server - Side Request Forgery and Injection Attacks
+  Skills/Technologies: Penetration Testing, Endpoint Analysis.   
+  Relevant Courses: API Reconnaissance, Endpoint Analysis, API Authentication Attacks, Exploiting API Authorization, Improper Assesst Management, Server - Side Request Forgery and Injection Attacks.   
+
+- **Portswigger Web Security Lab - Burp Suite ** :    
+   Skills/Technologies: Penetration Testing, CSRF, Injection Attacks.   
+   Relevant Labs: Injection, Cross - Site Scripting, Cross - Site Request Forgery, Dom - Based Vulnerabilities, HTTP Request Smuggling, Authentication, Information Disclosure, Business Logic Vulnerabilities and HTTP Host Header Attacks.
 
