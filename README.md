@@ -14,7 +14,7 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 - **Soft Skills**: Communication, Time Management, Presentation, Problem Solving, Collaboration and Team Work.
 
 ## 💼 Current Projects
-- [**LeetCode Problem List** ](https://leetcode.com/problemset/): This repository contains my personal solutions to LeetCode problems. It includes clean, well-commented Python code.
+- [**LeetCode Problem List** ](https://github.com/oriolakolawole/leetcode-solutions.git): This repository contains my personal solutions to LeetCode problems. It includes clean, well-commented Python code.
 
 - [**Google Cybersecurity Certificate** ](https://github.com/oriolakolawole/Google-Cybersecurity-Certificate.git): This repository contains the completed portofolio activities and exercises from the Google CyberSecurity Certification course.
 
