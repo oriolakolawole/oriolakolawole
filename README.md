@@ -14,6 +14,8 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 - **Soft Skills**: Communication, Time Management, Presentation, Problem Solving, Collaboration and Team Work.
 
 ## 💼 Current Projects
+- [**LeetCode Problem List** ](https://leetcode.com/problemset/): This repository contains my personal solutions to LeetCode problems. It includes clean, well-commented Python code.
+
 - [**Google Cybersecurity Certificate** ](https://github.com/oriolakolawole/Google-Cybersecurity-Certificate.git): This repository contains the completed portofolio activities and exercises from the Google CyberSecurity Certification course.
 
 - [**Ransomware Detection Research Project** ](https://github.com/oriolakolawole/Ransomware-and-Goodware-PE-Header-Dataset.git): Ransomware Detection using Image-Based Representation of PE Headers: A Deep Learning Approach.
@@ -39,7 +41,7 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
   Skills/Technologies: Penetration Testing, Endpoint Analysis.   
   Relevant Courses: API Reconnaissance, Endpoint Analysis, API Authentication Attacks, Exploiting API Authorization, Improper Assesst Management, Server - Side Request Forgery and Injection Attacks.   
 
-- **Portswigger Web Security Lab - Burp Suite ** :    
+- **Portswigger Web Security Lab - Burp Suite** :    
    Skills/Technologies: Penetration Testing, CSRF, Injection Attacks.   
    Relevant Labs: Injection, Cross - Site Scripting, Cross - Site Request Forgery, Dom - Based Vulnerabilities, HTTP Request Smuggling, Authentication, Information Disclosure, Business Logic Vulnerabilities and HTTP Host Header Attacks.
 
