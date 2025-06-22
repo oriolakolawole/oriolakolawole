@@ -33,3 +33,9 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 - Google Cybersecurity Professional: [Credential URL](https://www.credly.com/badges/9447a7fe-7f72-4a6c-9071-37baffeb12f2/public_url)
 - Google Cloud Cybersecurity Certificate: [Credential URL](https://www.credly.com/badges/673f6597-a4d1-4729-b193-d06214a523b1/linked_in_profile)
 - IBM; People and Soft Skills for Professional and Personal Success: [Credential URL](https://coursera.org/share/68513c30a295bf54e60ca3dc519d87dd)
+
+## 📝 Courses and Training
+- **API Penetration Testing - APISEC University** :
+Skills/Technologies: Penetration Testing, Endpoint Analysis.
+Relevant Courses: API Reconnaissance, Endpoint Analysis, API Authentication Attacks, Exploiting API Authorization, Improper Assesst Management, Server - Side Request Forgery and Injection Attacks
+
