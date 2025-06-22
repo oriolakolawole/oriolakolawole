@@ -35,7 +35,7 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 - IBM; People and Soft Skills for Professional and Personal Success: [Credential URL](https://coursera.org/share/68513c30a295bf54e60ca3dc519d87dd)
 
 ## 📝 Courses and Training
-- **API Penetration Testing - APISEC University** :
-- Skills/Technologies: Penetration Testing, Endpoint Analysis.
+- **API Penetration Testing - APISEC University** :   
+  Skills/Technologies: Penetration Testing, Endpoint Analysis.
 - Relevant Courses: API Reconnaissance, Endpoint Analysis, API Authentication Attacks, Exploiting API Authorization, Improper Assesst Management, Server - Side Request Forgery and Injection Attacks
 
