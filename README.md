@@ -1,16 +1,16 @@
 # Hi, I'm Kolawole Oriola
 
 ## 🚀 Professional Summary
-Junior Security Engineer with one year of experience in cybersecurity, possessing strong technical expertise in cloud computing, networking, DevSecOps, and penetration testing. Known for exceptional interpersonal skills and the ability to thrive in collaborative environments. 
+Junior Security Engineer with one year of cybersecurity experience and strong technical skills in cloud computing, networking, DevSecOps, and penetration testing. I excel in collaborative environments and bring solid interpersonal abilities to cross-functional teams.
 
-Driven by the belief that "growth is directly proportional to learning," I embrace challenging problems and adapt quickly to new technologies, consistently expanding my knowledge and capabilities.
+I approach challenges with curiosity and adaptability, viewing each new technology and complex problem as an opportunity to expand my expertise. My commitment to continuous learning drives me to stay current with evolving security threats and industry best practices.
 
 ## 🛠 Skills
 - **Languages**: Python, SQL
-- **Tools**: Git, Jira, Burp Suite
+- **Tools**: Git, Jira, Burp Suite, SIEM
 - **Operating Systems**: Linux, Windows
-- **Practices**: Penetration Testing, Threat and Vulnerability Management
-- **Technologies**: Google Cloud Platform (GCP), Cloud Security, DevSecOps, Security Operation Center (SOC), SIEM (Security Information and Event Management)
+- **Practices**: Penetration Testing, Threat and Vulnerability Management, DevSecOps, SOC
+- **Technologies**: AI and ML Models
 - **Soft Skills**: Communication, Time Management, Presentation, Problem Solving, Collaboration and Team Work.
 
 ## 💼 Current Projects
@@ -28,6 +28,8 @@ Driven by the belief that "growth is directly proportional to learning," I embra
 
 
 ## 📝 Certification
+- Infosec Cybersecurity Risk Management Framework: [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/BGJ32MW36YXC)
+- Microsoft Azure Security Engineer Associate (AZ-500): [Credential URL](https://www.coursera.org/account/accomplishments/professional-cert/FQITPHHI3G0C)
 - Google Cybersecurity Professional: [Credential URL](https://www.credly.com/badges/9447a7fe-7f72-4a6c-9071-37baffeb12f2/public_url)
 - Google Cloud Cybersecurity Certificate: [Credential URL](https://www.credly.com/badges/673f6597-a4d1-4729-b193-d06214a523b1/linked_in_profile)
 - IBM; People and Soft Skills for Professional and Personal Success: [Credential URL](https://coursera.org/share/68513c30a295bf54e60ca3dc519d87dd)
