@@ -6,11 +6,11 @@ Junior Security Engineer more than two years of cybersecurity experience and str
 I approach challenges with curiosity and adaptability, viewing each new technology and complex problem as an opportunity to expand my expertise. My commitment to continuous learning drives me to stay current with evolving security threats and industry best practices.
 
 ## 🛠 Skills
-- **Languages**: Python, SQL
-- **Tools**: Git, Jira, Burp Suite, SIEM
-- **Operating Systems**: Linux, Windows
-- **Practices**: Penetration Testing, Threat and Vulnerability Management, DevSecOps, SOC
-- **Technologies**: AI and ML Models
+- **Web Application Security and Penetration Testing**: Burp Suite, OWASP, SAST, DAST
+- **DevSecOps**: Secure CI/CD pipeline Integration, Jenkins, SonarQube
+- **Cloud Security**: GCP, Azure, IAM
+- **IT Auditing and Compliance**: NIST frameworks, ISO 27001, PCI-DSS
+- **Python Programming**: Automation, Scripting, Algorithms
 - **Soft Skills**: Communication, Time Management, Presentation, Problem Solving, Collaboration and Team Work.
 
 ## 💼 Current Projects
