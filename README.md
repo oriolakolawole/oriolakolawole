@@ -30,6 +30,8 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 
 
 ## 📝 Certification
+- Qualys Certified Specialist PCI Compliance
+- ISO/IEC 27001:2022 Lead Auditor
 - Infosec Cybersecurity Risk Management Framework: [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/BGJ32MW36YXC)
 - Microsoft Azure Security Engineer Associate (AZ-500): [Credential URL](https://www.coursera.org/account/accomplishments/professional-cert/FQITPHHI3G0C)
 - Google Cybersecurity Professional: [Credential URL](https://www.credly.com/badges/9447a7fe-7f72-4a6c-9071-37baffeb12f2/public_url)
