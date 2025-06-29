@@ -1,7 +1,7 @@
 # Hi, I'm Kolawole Oriola
 
 ## 🚀 Professional Summary
-Junior Security Engineer with one year of cybersecurity experience and strong technical skills in cloud computing, networking, DevSecOps, and penetration testing. I excel in collaborative environments and bring solid interpersonal abilities to cross-functional teams.
+Junior Security Engineer more than two years of cybersecurity experience and strong technical skills in cloud computing, networking, DevSecOps, and penetration testing. I excel in collaborative environments and bring solid interpersonal abilities to cross-functional teams.
 
 I approach challenges with curiosity and adaptability, viewing each new technology and complex problem as an opportunity to expand my expertise. My commitment to continuous learning drives me to stay current with evolving security threats and industry best practices.
 
