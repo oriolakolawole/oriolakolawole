@@ -20,7 +20,7 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 
 - [**Ransomware Detection Research Project** ](https://github.com/oriolakolawole/Ransomware-and-Goodware-PE-Header-Dataset.git): Ransomware Detection using Image-Based Representation of PE Headers: A Deep Learning Approach.
 
-- [**DevSecOps CI/CD Pipeline** ](https://github.com/oriolakolawole/Technical-Report-2023-DevsSecOp-CI-CD-Pipeline.git): This repository contains comprehensive analysis of a DevSecOps CI/CD pipeline I Implemented during my internship.
+- [**DevSecOps Security Automation Project** ](https://github.com/oriolakolawole/IntegratingDevSecOps.git): This repository contains comprehensive analysis of a DevSecOps CI/CD pipeline.
 
 
 
