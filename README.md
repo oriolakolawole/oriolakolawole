@@ -22,6 +22,7 @@ I approach challenges with curiosity and adaptability, viewing each new technolo
 
 - [**DevSecOps Security Automation Project** ](https://github.com/oriolakolawole/IntegratingDevSecOps.git): This repository contains comprehensive analysis of a DevSecOps CI/CD pipeline.
 
+- [**Penetration Testing (Bug Report)** ](https://github.com/oriolakolawole/BugReports.git): This repository contains my redacted bug reports from real-world findings.
 
 
 ## 📫 Get in Touch
