@@ -9,7 +9,6 @@ Cybersecurity Analyst with experience in consulting and AI industries, bringing 
 - **Cloud Security**: GCP, Azure, IAM
 - **IT Auditing and Compliance**: NIST frameworks, ISO 27001, PCI-DSS
 - **Python Programming**: Automation, Scripting, Algorithms
-- **Soft Skills**: Communication, Time Management, Presentation, Problem Solving, Collaboration and Team Work.
 
 ### 💼 Current Projects
 - [**LeetCode Problem List** ](https://github.com/oriolakolawole/leetcode-solutions.git): This repository contains my personal solutions to LeetCode problems. It includes clean, well-commented Python code.
