@@ -16,7 +16,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 DevSecOps Security Automation Project  
 - **Type:** Personal Project  
 - **Date:** August 2025  
-- **Skills/Technologies:** DevSecOps, CI/CD, SonarQube, Git, Jira, SAST & DAST
+- **Skills/Technologies:** `DevSecOps, CI/CD, SonarQube, Git, Jira, SAST & DAST`
 - **Tasks:**  
   - Demonstrated the integration of DevSecOps practices into a modern software development lifecycle, embedding security at every stage from code commits to deployment and monitoring.  
   - Configured **SonarLint plugin in Visual Studio Code** for real-time code quality and security feedback.  
@@ -30,12 +30,12 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 
 ### 🔹 Web Application Security Testing  
 - **Company/Role:** Cybersecurity Analyst Intern  
-- **Date:** December 2022 – November 2024  
+- **Date:** December 2022 – November 2024
+- **Skills:** ```Burp Suite, Api Security, Reporting```   
 - **Tasks:**  
   - Performed vulnerability assessments on a client-facing web app  
   - Tested for OWASP Top 10 risks  
   - Delivered remediation report with risk rating and fixes  
-- **Skills:** Burp Suite, Api Security, Reporting  
 - **Link:** [GitHub Repo](https://github.com/oriolakolawole/BugReports.git)
 
 ---
@@ -43,7 +43,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
 - **Type:** Personal Project  
 - **Date:** Ongoing  
-- **Skills/Technologies:** Python, Algorithms, Data Structures, Problem-Solving, Git  
+- **Skills/Technologies:** ```bash Python, Algorithms, Data Structures, Problem-Solving, Git``` 
 - **Tasks:**  
   - Solved a wide range of **LeetCode problems**.  
   - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
@@ -55,7 +55,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 Ransomware Detection using Image-based Representation of Portable Executable Headers  
 - **Company/Role:** Final Project – University of Lagos, Nigeria  
 - **Date:** August 2024  
-- **Skills/Technologies:** Convolutional Neural Networks (CNN), Python, Machine Learning, AI, Malware  
+- **Skills/Technologies:** ```apache Convolutional Neural Networks (CNN), Python, Machine Learning, AI, Malware``` 
 - **Tasks:**  
   - Developed a deep learning–based malware detection system that visualizes PE headers of `.exe` files as color images for classification.  
   - Trained and compared three CNN architectures: **ResNet**, **Xception**, and **VGG16** to detect and classify ransomware families.  
