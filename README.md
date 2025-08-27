@@ -3,8 +3,8 @@
 Cybersecurity Analyst with consulting and AI industry experience, skilled in cloud security (GCP, AWS, Azure), DevSecOps, Python scripting, and penetration testing. 
 
 ### Skills
-- **Web Application Security and Penetration Testing**: Burp Suite, OWASP, SAST, DAST
-- **DevSecOps**: Secure CI/CD pipeline Integration, Jenkins, SonarQube
+- **Web Application Security and Penetration Testing**: Burp Suite, OWASP
+- **DevSecOps**: Secured CI/CD, Jenkins
 - **Cloud Security**: GCP, Azure, IAM
 - **IT Auditing and Compliance**: NIST frameworks, ISO 27001, PCI-DSS
 - **Python Programming**: Automation, Scripting, Algorithms
@@ -31,7 +31,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 Web Application Security Testing  
 - **Company/Role:** Cybersecurity Analyst Intern  
 - **Date:** December 2022 – November 2024
-- **Skills:** ```Burp Suite, Api Security, Reporting```   
+- **Skills/Technologies:** *`Burp Suite, Api Security, Reporting`*   
 - **Tasks:**  
   - Performed vulnerability assessments on a client-facing web app  
   - Tested for OWASP Top 10 risks  
@@ -43,7 +43,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
 - **Type:** Personal Project  
 - **Date:** Ongoing  
-- **Skills/Technologies:** ```bash Python, Algorithms, Data Structures, Problem-Solving, Git``` 
+- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
 - **Tasks:**  
   - Solved a wide range of **LeetCode problems**.  
   - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
@@ -55,7 +55,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 Ransomware Detection using Image-based Representation of Portable Executable Headers  
 - **Company/Role:** Final Project – University of Lagos, Nigeria  
 - **Date:** August 2024  
-- **Skills/Technologies:** ```apache Convolutional Neural Networks (CNN), Python, Machine Learning, AI, Malware``` 
+- **Skills/Technologies:** *`Convolutional Neural Networks (CNN), Python, Machine Learning, AI, Malware`*
 - **Tasks:**  
   - Developed a deep learning–based malware detection system that visualizes PE headers of `.exe` files as color images for classification.  
   - Trained and compared three CNN architectures: **ResNet**, **Xception**, and **VGG16** to detect and classify ransomware families.  
@@ -68,7 +68,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 OSINT Signals Classifier & Synthesizer  
 - **Company/Role:** OSINT Security Engineer – OpenQQuantify  
 - **Date:** March 2025  
-- **Skills/Technologies:** GNU Radio, Python, Machine Learning 
+- **Skills/Technologies:** *`GNU Radio, Python, Machine Learning`*
 - **Tasks:**  
   - Developed a synthetic signal classification system spanning the entire radio spectrum (ELF to EHF) to classify synthetic signals based on features extracted from real-world signals.  
   - Utilized **GNU Radio** for synthetic signal generation across various modulation schemes and channel conditions, and **Python** for automation, machine learning, and data processing.  
@@ -80,7 +80,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 DevSecOps CI/CD Pipeline for Enhanced Software Security  
 - **Company/Role:** Cybersecurity Analyst Intern, AO Partners  
 - **Date:** April 2023  
-- **Skills/Technologies:** DevSecOps, CI/CD, Jenkins, Git, GCP, Jira  
+- **Skills/Technologies:** *`DevSecOps, CI/CD, Jenkins, Git, GCP, Jira`*  
 - **Tasks:**  
   - Engineered and deployed a DevSecOps CI/CD pipeline, integrating security practices from the outset to address vulnerabilities early in software development.  
   - Developed and configured a Jenkins pipeline (Jenkinsfile) to manage continuous integration, testing, and delivery workflows, ensuring security measures are embedded at each stage.  
@@ -93,7 +93,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 Google Cybersecurity Certificate Projects  
 - **Company/Role:** Google Cybersecurity Certificate Program  
 - **Date:** September 2024  
-- **Skills/Technologies:** SQL, Python, Linux, NIST Cybersecurity Framework, Security Audit, Incident Response  
+- **Skills/Technologies:** *`SQL, Python, Linux, NIST Cybersecurity Framework, Security Audit, Incident Response`*  
 - **Tasks:**  
   - Conducted a **security audit**.  
   - Applied the **NIST Cybersecurity Framework** to analyze and respond to a simulated security incident.  
@@ -123,11 +123,11 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 
 ### 📝 Courses and Training
 - **API Penetration Testing - APISEC University** :   
-  Skills/Technologies: Penetration Testing, Endpoint Analysis.   
+  Skills/Technologies: *`Penetration Testing, Endpoint Analysis`*  
   Relevant Courses: API Reconnaissance, Endpoint Analysis, API Authentication Attacks, Exploiting API Authorization, Improper Assesst Management, Server - Side Request Forgery and Injection Attacks.   
 
 - **Portswigger Web Security Lab - Burp Suite** :    
-   Skills/Technologies: Penetration Testing, CSRF, Injection Attacks.   
+   Skills/Technologies: *`Penetration Testing, CSRF, Injection Attacks`*   
    Relevant Labs: Injection, Cross - Site Scripting, Cross - Site Request Forgery, Dom - Based Vulnerabilities, HTTP Request Smuggling, Authentication, Information Disclosure, Business Logic Vulnerabilities and HTTP Host Header Attacks.
 
 ---
