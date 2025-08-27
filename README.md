@@ -1,7 +1,7 @@
 ## Hi, I'm Kolawole Oriola
 
 
-Cybersecurity Analyst with experience in consulting and AI industries, bringing strong technical skills in cloud computing (GCP, AWS, Azure), DevSecOps, Python scripting, and penetration testing. 
+Cybersecurity Analyst with consulting and AI industry experience, skilled in cloud security (GCP, AWS, Azure), DevSecOps, Python scripting, and penetration testing. 
 
 ### 🛠 Skills
 - **Web Application Security and Penetration Testing**: Burp Suite, OWASP, SAST, DAST
