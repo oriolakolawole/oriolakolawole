@@ -2,8 +2,6 @@
 
 Cybersecurity Analyst with consulting and AI industry experience, skilled in cloud security (GCP, AWS, Azure), DevSecOps, Python scripting, and penetration testing. 
 
----
-
 ### Skills
 - **Web Application Security and Penetration Testing**: Burp Suite, OWASP, SAST, DAST
 - **DevSecOps**: Secure CI/CD pipeline Integration, Jenkins, SonarQube
