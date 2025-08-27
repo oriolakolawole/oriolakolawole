@@ -12,11 +12,11 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ---
 
 ## 📂 Projects  
-<span style="font-family:Arial; font-size:20px;">
+
 ### 🔹 DevSecOps Security Automation Project  
 - **Type:** Personal Project  
 - **Date:** August 2025  
-- **Skills/Technologies:** `DevSecOps, CI/CD, SonarQube, Git, Jira, SAST & DAST`
+- **Skills/Technologies:** *`DevSecOps, CI/CD, SonarQube, Git, Jira, SAST & DAST`*
 - **Tasks:**  
   - Demonstrated the integration of DevSecOps practices into a modern software development lifecycle, embedding security at every stage from code commits to deployment and monitoring.  
   - Configured **SonarLint plugin in Visual Studio Code** for real-time code quality and security feedback.  
@@ -25,7 +25,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
   - Deployed **ArcherySec** for continuous vulnerability monitoring and reporting.  
   - Linked vulnerabilities to **Jira** for issue tracking, remediation, and developer collaboration.  
 - **Link:** [Github repo](https://github.com/oriolakolawole/IntegratingDevSecOps.git)  
-</span>
+
 ---
 
 ### 🔹 Web Application Security Testing  
