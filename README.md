@@ -58,10 +58,29 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
   - Tested for OWASP Top 10 risks (SQLi, XSS, CSRF, IDOR)  
   - Delivered remediation report with risk rating and fixes  
 - **Skills:** Burp Suite, Nmap, Metasploit, Web Security, Reporting  
+- **Link:** 🔒 Confidential
+
+
+### 🔹 DevSecOps CI/CD Pipeline for Enhanced Software Security  
+- **Company/Role:** Cybersecurity Analyst Intern, AO Partners  
+- **Date:** April 2023  
+- **Skills/Technologies:** DevSecOps, CI/CD, Jenkins, SonarQube, OWASP ZAP, TruffleHog, Git, Python, Linux, GCP, Agile  
+- **Tasks:**  
+  - Engineered and deployed a DevSecOps CI/CD pipeline, integrating security practices from the outset to address vulnerabilities early in software development.  
+  - Developed and configured a Jenkins pipeline (Jenkinsfile) to manage continuous integration, testing, and delivery workflows, ensuring security measures are embedded at each stage.  
+  - Implemented automated security testing (SAST with SonarQube, DAST with OWASP ZAP, and secret scanning with TruffleHog) within the Jenkins CI/CD pipeline to identify and mitigate issues like SQL injection and leaked credentials.  
+  - Utilized Agile and Kanban methodologies for iterative development, vulnerability management, and efficient issue resolution, ensuring a more secure and compliant application.  
 - **Link:** 🔒 Confidential  
 
 
 
+ DevSecOps CI/CD Pipeline for Enhanced Software Security                                                                                                                                                               April 2023
+ Cybersecurity Analyst Intern, companyname	                
+ Skills/Technologies: DevSecOps, CI/CD, Jenkins, SonarQube, OWASP ZAP, TruffleHog, Git, Python, Linux, GCP, Agile.
+Engineered and deployed a DevSecOps CI/CD pipeline, integrating security practices from the outset to address vulnerabilities early in software development.
+Developed and configured a Jenkins pipeline (Jenkinsfile) to manage continuous integration, testing, and delivery workflows, ensuring security measures are embedded at each stage
+Implemented automated security testing (SAST with SonarQube, DAST with OWASP ZAP, and secret scanning with TruffleHog) within the Jenkins CI/CD pipeline to identify and mitigate issues like SQL injection and leaked credentials.
+Utilized Agile and Kanban methodologies for iterative development, vulnerability management, and efficient issue resolution, ensuring a more secure and compliant application. link confidetial
 
 
 
