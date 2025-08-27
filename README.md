@@ -3,14 +3,14 @@
 
 Cybersecurity Analyst with consulting and AI industry experience, skilled in cloud security (GCP, AWS, Azure), DevSecOps, Python scripting, and penetration testing. 
 
-### 🛠 Skills
+### Skills
 - **Web Application Security and Penetration Testing**: Burp Suite, OWASP, SAST, DAST
 - **DevSecOps**: Secure CI/CD pipeline Integration, Jenkins, SonarQube
 - **Cloud Security**: GCP, Azure, IAM
 - **IT Auditing and Compliance**: NIST frameworks, ISO 27001, PCI-DSS
 - **Python Programming**: Automation, Scripting, Algorithms
 
-### 💼 Current Projects
+### Current Projects
 - [**LeetCode Problem List** ](https://github.com/oriolakolawole/leetcode-solutions.git): This repository contains my personal solutions to LeetCode problems. It includes clean, well-commented Python code.
 
 - [**Google Cybersecurity Certificate** ](https://github.com/oriolakolawole/Google-Cybersecurity-Certificate.git): This repository contains the completed portofolio activities and exercises from the Google CyberSecurity Certification course.
@@ -21,6 +21,48 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 
 
 - [**Penetration Testing (Bug Report)** ](https://github.com/oriolakolawole/BugReports.git): This repository contains my redacted bug reports from real-world findings.
+
+
+
+## 📂 Projects  
+
+### 🔹 Cloud Security Automation  
+- **Company/Role:** Unicus – Cybersecurity Analyst  
+- **Date:** Jan 2025 – Mar 2025  
+- **Tasks:**  
+  - Implemented security automation pipelines for cloud workloads  
+  - Integrated static and dynamic analysis tools (SonarQube, OWASP ZAP) into CI/CD  
+  - Conducted penetration testing and reported vulnerabilities  
+- **Skills:** Cloud Security (Azure, AWS, GCP), DevSecOps, Python, Penetration Testing  
+- **Link:** [GitHub Repo](https://github.com/username/repo-name)  
+
+---
+
+### 🔹 AI-Driven Threat Detection *(Personal Project)*  
+- **Company/Role:** Personal Project  
+- **Date:** Jul 2024 – Sep 2024  
+- **Tasks:**  
+  - Developed a machine learning model to detect anomalies in log data  
+  - Built data ingestion pipelines from cloud environments  
+  - Evaluated detection accuracy and tuned algorithms  
+- **Skills:** Python, Machine Learning, SIEM, Cloud Logs, Security Analytics  
+- **Link:** [GitHub Repo](https://github.com/username/repo-name)  
+
+---
+
+### 🔹 Web Application Security Testing  
+- **Company/Role:** Internship – Penetration Tester  
+- **Date:** May 2024 – Jun 2024  
+- **Tasks:**  
+  - Performed vulnerability assessments on a client-facing web app  
+  - Tested for OWASP Top 10 risks (SQLi, XSS, CSRF, IDOR)  
+  - Delivered remediation report with risk rating and fixes  
+- **Skills:** Burp Suite, Nmap, Metasploit, Web Security, Reporting  
+- **Link:** 🔒 Confidential  
+
+
+
+
 
 
 ### 📫 Get in Touch
