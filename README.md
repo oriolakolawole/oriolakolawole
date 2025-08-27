@@ -68,7 +68,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ### 🔹 OSINT Signals Classifier & Synthesizer  
 - **Company/Role:** OSINT Security Engineer – OpenQQuantify  
 - **Date:** March 2025  
-- **Skills/Technologies:** GNU Radio, Python, Machine Learning, Signal Processing, Scikit-learn, TensorFlow/PyTorch, NumPy, Pandas, Matplotlib, Seaborn, Git  
+- **Skills/Technologies:** GNU Radio, Python, Machine Learning 
 - **Tasks:**  
   - Developed a synthetic signal classification system spanning the entire radio spectrum (ELF to EHF) to classify synthetic signals based on features extracted from real-world signals.  
   - Utilized **GNU Radio** for synthetic signal generation across various modulation schemes and channel conditions, and **Python** for automation, machine learning, and data processing.  
@@ -110,6 +110,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/oriolakolawole/)
 ---
 ### 📝 Certification
+- ISC2 Systems Security Certified Practitioner (SSCP)
 - Qualys Certified Specialist PCI Compliance
 - ISO/IEC 27001:2022 Lead Auditor
 - Infosec Cybersecurity Risk Management Framework: [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/BGJ32MW36YXC)
