@@ -12,7 +12,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
 ---
 
 ## 📂 Projects  
-
+<span style="font-family:Arial; font-size:20px;">
 ### 🔹 DevSecOps Security Automation Project  
 - **Type:** Personal Project  
 - **Date:** August 2025  
@@ -25,7 +25,7 @@ Cybersecurity Analyst with consulting and AI industry experience, skilled in clo
   - Deployed **ArcherySec** for continuous vulnerability monitoring and reporting.  
   - Linked vulnerabilities to **Jira** for issue tracking, remediation, and developer collaboration.  
 - **Link:** [Github repo](https://github.com/oriolakolawole/IntegratingDevSecOps.git)  
-
+</span>
 ---
 
 ### 🔹 Web Application Security Testing  
