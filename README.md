@@ -28,18 +28,6 @@ CData scientist experienced in machine learning, deep learning, and Python. Skil
 
 ---
 
-### 🔹 Web Application Security Testing  
-- **Company/Role:** Cybersecurity Analyst Intern  
-- **Date:** December 2022 – November 2024
-- **Skills/Technologies:** *`Burp Suite, Api Security, Reporting`*   
-- **Tasks:**  
-  - Performed vulnerability assessments on a client-facing web app  
-  - Tested for OWASP Top 10 risks  
-  - Delivered remediation report with risk rating and fixes  
-- **Link:** [GitHub Repo](https://github.com/oriolakolawole/BugReports.git)
-
----
-
 ### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
 - **Type:** Personal Project  
 - **Date:** Ongoing  
@@ -88,20 +76,6 @@ CData scientist experienced in machine learning, deep learning, and Python. Skil
   - Utilized Agile and Kanban methodologies for iterative development, vulnerability management, and efficient issue resolution, ensuring a more secure and compliant application.  
 - **Link:** 🔒 Confidential  
 
----
-
-### 🔹 Google Cybersecurity Certificate Projects  
-- **Company/Role:** Google Cybersecurity Certificate Program  
-- **Date:** September 2024  
-- **Skills/Technologies:** *`SQL, Python, Linux, NIST Cybersecurity Framework, Security Audit, Incident Response`*  
-- **Tasks:**  
-  - Conducted a **security audit**.  
-  - Applied the **NIST Cybersecurity Framework** to analyze and respond to a simulated security incident.  
-  - Used **Linux commands** to manage file permissions.  
-  - Applied filters and conditions to **SQL queries** for secure data handling and investigation.  
-  - Documented incidents using an **incident handler's journal** to track response steps.  
-  - Built and updated files through a **Python algorithm** to automate remediation.  
-- **Link:** [GitHub Repo](https://github.com/oriolakolawole/Google-Cybersecurity-Certificate.git)
 
 ---
 
