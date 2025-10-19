@@ -1,6 +1,6 @@
 ## Hi, I'm Kolawole Oriola
 
-Data scientist experienced in machine learning, deep learning, and Python. Skilled in feature engineering and statistical analysis. I value continuous learning and work well with clients and colleagues.
+Data scientist skilled in Python, machine learning, and SQL. I translate complex datasets into actionable insights that drive business decisions. Passionate about continuous learning and collaborating with teams to build impactful data-driven solutions.
 
 ### Skills
 - **Languages**: Python, MySQL
