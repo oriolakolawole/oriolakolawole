@@ -1,44 +1,17 @@
 ## Hi, I'm Kolawole Oriola
 
-CData scientist experienced in machine learning, deep learning, and Python. Skilled in feature engineering and statistical analysis. I value continuous learning and work well with clients and colleagues.
+Data scientist experienced in machine learning, deep learning, and Python. Skilled in feature engineering and statistical analysis. I value continuous learning and work well with clients and colleagues.
 
 ### Skills
 - **Web Application Security and Penetration Testing**: Burp Suite, OWASP
-- **DevSecOps**: Secured CI/CD, Jenkins
-- **Cloud Security**: GCP, Azure, IAM
-- **IT Auditing and Compliance**: NIST frameworks, ISO 27001, PCI-DSS
-- **Python Programming**: Automation, Scripting, Algorithms
+- **CI / CD**: Jenkins
+- **Cloud**: GCP, Azure
+- **AI**: Machine Learning, Deep Learning
+- **Languages**: Python, MySQL
 
 ---
 
 ## 📂 Projects  
-
-### 🔹 DevSecOps Security Automation Project  
-- **Type:** Personal Project  
-- **Date:** August 2025  
-- **Skills/Technologies:** *`DevSecOps, CI/CD, SonarQube, Git, Jira, SAST & DAST`*
-- **Tasks:**  
-  - Demonstrated the integration of DevSecOps practices into a modern software development lifecycle, embedding security at every stage from code commits to deployment and monitoring.  
-  - Configured **SonarLint plugin in Visual Studio Code** for real-time code quality and security feedback.  
-  - Applied **Git-Secrets** to automatically detect and prevent secret leakage in every commit.  
-  - Integrated **SonarQube** for Static Application Security Testing (SAST) and **OWASP ZAP** for Dynamic Application Security Testing (DAST).  
-  - Deployed **ArcherySec** for continuous vulnerability monitoring and reporting.  
-  - Linked vulnerabilities to **Jira** for issue tracking, remediation, and developer collaboration.  
-- **Link:** [Github repo](https://github.com/oriolakolawole/IntegratingDevSecOps.git)  
-
----
-
-### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
-- **Type:** Personal Project  
-- **Date:** Ongoing  
-- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
-- **Tasks:**  
-  - Solved a wide range of **LeetCode problems**.  
-  - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
-  - Applied **data structures** such as linked lists, binary trees to solve practical challenges.   
-- **Link:** [GitHub Repo](https://github.com/oriolakolawole/leetcode-solutions.git)  
-
----
 
 ### 🔹 Ransomware Detection using Image-based Representation of Portable Executable Headers  
 - **Company/Role:** Final Project – University of Lagos, Nigeria  
@@ -61,23 +34,37 @@ CData scientist experienced in machine learning, deep learning, and Python. Skil
   - Developed a synthetic signal classification system spanning the entire radio spectrum (ELF to EHF) to classify synthetic signals based on features extracted from real-world signals.  
   - Utilized **GNU Radio** for synthetic signal generation across various modulation schemes and channel conditions, and **Python** for automation, machine learning, and data processing.  
   - Trained and validated machine learning models for accurate synthetic signal classification and integrated all modules into a cohesive system.  
-- **Link:** 🔒 Confidential  
+- **Link:** 🔒 Confidential   
 
 ---
-
-### 🔹 DevSecOps CI/CD Pipeline for Enhanced Software Security  
-- **Company/Role:** Cybersecurity Analyst Intern, AO Partners  
-- **Date:** April 2023  
-- **Skills/Technologies:** *`DevSecOps, CI/CD, Jenkins, Git, GCP, Jira`*  
+### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
+- **Type:** Personal Project  
+- **Date:** Ongoing  
+- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
 - **Tasks:**  
-  - Engineered and deployed a DevSecOps CI/CD pipeline, integrating security practices from the outset to address vulnerabilities early in software development.  
-  - Developed and configured a Jenkins pipeline (Jenkinsfile) to manage continuous integration, testing, and delivery workflows, ensuring security measures are embedded at each stage.  
-  - Implemented automated security testing (SAST with SonarQube, DAST with OWASP ZAP, and secret scanning with TruffleHog) within the Jenkins CI/CD pipeline to identify and mitigate issues like SQL injection and leaked credentials.  
-  - Utilized Agile and Kanban methodologies for iterative development, vulnerability management, and efficient issue resolution, ensuring a more secure and compliant application.  
-- **Link:** 🔒 Confidential  
-
+  - Solved a wide range of **LeetCode problems**.  
+  - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
+  - Applied **data structures** such as linked lists, binary trees to solve practical challenges.   
+- **Link:** [GitHub Repo](https://github.com/oriolakolawole/leetcode-solutions.git)  
 
 ---
+
+### 🔹 DevSecOps Security Automation Project  
+- **Type:** Personal Project  
+- **Date:** August 2025  
+- **Skills/Technologies:** *`DevSecOps, CI/CD, SonarQube, Git, Jira, SAST & DAST`*
+- **Tasks:**  
+  - Demonstrated the integration of DevSecOps practices into a modern software development lifecycle, embedding security at every stage from code commits to deployment and monitoring.  
+  - Configured **SonarLint plugin in Visual Studio Code** for real-time code quality and security feedback.  
+  - Applied **Git-Secrets** to automatically detect and prevent secret leakage in every commit.  
+  - Integrated **SonarQube** for Static Application Security Testing (SAST) and **OWASP ZAP** for Dynamic Application Security Testing (DAST).  
+  - Deployed **ArcherySec** for continuous vulnerability monitoring and reporting.  
+  - Linked vulnerabilities to **Jira** for issue tracking, remediation, and developer collaboration.  
+- **Link:** [Github repo](https://github.com/oriolakolawole/IntegratingDevSecOps.git)  
+
+---
+
+
 
 ### 📫 Get in Touch
 - Email: oriolakolawole@gmail.com
