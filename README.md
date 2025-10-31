@@ -11,6 +11,13 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 
 ---
 
+<table>
+  <tr><th>Step</th><th>Description</th></tr>
+  <tr><td>1</td><td>Data cleaning<ul><li>remove nulls</li><li>encode categories</li></ul></td></tr>
+</table>
+
+---
+
 ## 📂 Projects  
 
 ### 🔹 Ransomware Detection using Image-based Representation of Portable Executable Headers  
