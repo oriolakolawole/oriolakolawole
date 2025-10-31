@@ -56,14 +56,13 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 
 ---
 
-### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
-- **Type:** Personal Project  
-- **Date:** Ongoing  
-- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
+### 🔹 Lot Size Calculator  
+- **Type:** Data Science Intern - Unicus Trading  
+- **Date:** September 2025  
+- **Skills/Technologies:** *`Python, Javascript, html, css, Git Action`*
 - **Tasks:**  
-  - Solved a wide range of **LeetCode problems**.  
-  - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
-  - Applied **data structures** such as linked lists, binary trees to solve practical challenges.   
+  - Built an automated lot-size calculator utilizing live FX rates from an external API, refreshing data every 8 hours via GitHub Actions.  
+  - Developed a responsive web interface to compute position sizing, improving trading accuracy through real-time calculations and automated exchange-rate updates.    
 - **Link:** [GitHub Repo](https://github.com/oriolakolawole/leetcode-solutions.git)  
 
 ---
