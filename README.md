@@ -51,7 +51,7 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 ### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
 - **Type:** Personal Project  
 - **Date:** Ongoing  
-- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
+- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving`*
 - **Tasks:**  
   - Solved a wide range of **LeetCode problems**.  
   - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
