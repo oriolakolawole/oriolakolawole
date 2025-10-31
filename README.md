@@ -7,7 +7,7 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 - **Core Skills**: Data Wrangling, Statistical Analysis, Data Visualization
 - **AI**: Machine Learning, Deep Learning
 - **CI / CD**: Jenkins
-- **Cloud**: GCP, Azure
+- **Cloud**: GCP
 
 ---
 
@@ -44,6 +44,30 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 - **Link:** 🔒 Confidential   
 
 ---
+### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
+- **Type:** Personal Project  
+- **Date:** Ongoing  
+- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
+- **Tasks:**  
+  - Solved a wide range of **LeetCode problems**.  
+  - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
+  - Applied **data structures** such as linked lists, binary trees to solve practical challenges.   
+- **Link:** [GitHub Repo](https://github.com/oriolakolawole/leetcode-solutions.git)  
+
+---
+
+### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
+- **Type:** Personal Project  
+- **Date:** Ongoing  
+- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
+- **Tasks:**  
+  - Solved a wide range of **LeetCode problems**.  
+  - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
+  - Applied **data structures** such as linked lists, binary trees to solve practical challenges.   
+- **Link:** [GitHub Repo](https://github.com/oriolakolawole/leetcode-solutions.git)  
+
+---
+
 ### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
 - **Type:** Personal Project  
 - **Date:** Ongoing  
