@@ -6,7 +6,7 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 - **Languages**: Python, MySQL
 - **Core Skills**: Data Wrangling, Statistical Analysis, Data Visualization
 - **AI**: Machine Learning, Deep Learning
-- **CI / CD**: Jenkins
+- **CI / CD**: Jenkins, Git Action
 - **Cloud**: GCP
 
 ---
@@ -63,19 +63,17 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 - **Tasks:**  
   - Built an automated lot-size calculator utilizing live FX rates from an external API, refreshing data every 8 hours via GitHub Actions.  
   - Developed a responsive web interface to compute position sizing, improving trading accuracy through real-time calculations and automated exchange-rate updates.    
-- **Link:** [GitHub Repo](https://github.com/oriolakolawole/leetcode-solutions.git)  
+- **Link:** [GitHub Repo](https://github.com/oriolakolawole/lotsizeCal.git)  
 
 ---
 
-### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
+### 🔹 DevSecOps Security Automation Project 
 - **Type:** Personal Project  
-- **Date:** Ongoing  
-- **Skills/Technologies:** *`Python, Algorithms, Data Structures, Problem-Solving, Git`*
+- **Date:** June 2023  
+- **Skills/Technologies:** *`CI/CD. Jenkins, Cloud`*
 - **Tasks:**  
-  - Solved a wide range of **LeetCode problems**.  
-  - Implemented optimized **algorithmic solutions** with clean, well-documented Python code.  
-  - Applied **data structures** such as linked lists, binary trees to solve practical challenges.   
-- **Link:** [GitHub Repo](https://github.com/oriolakolawole/leetcode-solutions.git)  
+  - Designed a secure CI/CD pipeline on GCP using Jenkins with integrated secrets management, SAST/DAST scans, and container-image vulnerability checks.  
+- **Link:** [GitHub Repo](https://github.com/oriolakolawole/IntegratingDevSecOps.git)  
 
 ---
 
