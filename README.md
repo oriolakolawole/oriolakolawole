@@ -12,8 +12,8 @@ Data scientist skilled in Python, machine learning, and SQL. I translate complex
 ---
 
 <table>
-  <tr><th>Step</th><th>Description</th></tr>
-  <tr><td>1</td><td>Data cleaning<ul><li>remove nulls</li><li>encode categories</li></ul></td></tr>
+  <tr><th>S/N</th><th>Project</th><th>Skills</th><th>Link</th></tr>
+  <tr><td>1</td><td>Ransomware Detection using Image-based Representation of Portable Executable Headers</td><td>Convolutional Neural Networks (CNN), Python, Machine Learning, AI</td><td>[Github Repo](https://github.com/oriolakolawole/Ransomware-and-Goodware-PE-Header-Dataset.git)</td></tr>
 </table>
 
 ---
