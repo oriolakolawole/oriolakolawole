@@ -1,22 +1,15 @@
 ## Hi, I'm Kolawole Oriola
 
-Data scientist skilled in Python, machine learning, and SQL. I translate complex datasets into actionable insights that drive business decisions. Passionate about continuous learning and collaborating with teams to build impactful data-driven solutions.
-
-### Skills
-- **Languages**: Python, MySQL
-- **Core Skills**: Data Wrangling, Statistical Analysis, Data Visualization
-- **AI**: Machine Learning, Deep Learning
-- **CI / CD**: Jenkins, Git Action
-- **Cloud**: GCP
+Data Scientist with experience in data engineering, ML model development, time-series analysis,and deploying models using FastAPI. Passionate about translating complex data into actionable insights that drives business decisions.
 
 ---
 
 <table>
   <tr><th>S/N</th><th>Project</th><th>Skills</th><th>Link</th></tr>
-  <tr><td>1</td><td>Ransomware Detection using Image-based Representation of Portable Executable Headers</td><td>Convolutional Neural Networks (CNN), Python, Machine Learning, AI</td><td><a href="https://github.com/oriolakolawole/oriolakolawole/blob/main/README.md#-ransomware-detection-using-image-based-representation-of-portable-executable-headers">Info</td></tr>
-  <tr><td>2</td><td>OSINT Signals Classifier & Synthesizer</td><td>Python, Machine Learning</td><td><a href="https://github.com/oriolakolawole#-osint-signals-classifier--synthesizer">Info</td></tr>
-  <tr><td>3</td><td>Python Problem-Solving Portfolio (LeetCode Practice)</td><td>Python, Algorithms, Data Structures, Problem-Solving, Git</td><td><a href="https://github.com/oriolakolawole#-python-problem-solving-portfolio-leetcode-practice">Info</td></tr>
- <tr><td>4</td><td>Lot Size Calculator</td><td>Python, Javascript, html, css, Git Action</td><td><a href="https://github.com/oriolakolawole#-lot-size-calculator">Info</td></tr>
+  <tr><td>1</td><td>Ransomware Detection using Image-based Representation of Portable Executable Headers</td><td>Tensorflow, ResNet, Xception, VGG16, Pandas, Seaborn, Numpy, Python</td><td><a href="https://github.com/oriolakolawole/oriolakolawole/blob/main/README.md#-ransomware-detection-using-image-based-representation-of-portable-executable-headers">Info</td></tr>
+  <tr><td>2</td><td>OSINT Signals Classifier & Synthesizer</td><td>Python, Random Forest, SVM, Pandas</td><td><a href="https://github.com/oriolakolawole#-osint-signals-classifier--synthesizer">Info</td></tr>
+  <tr><td>3</td><td>Python Problem-Solving Portfolio (LeetCode Practice)</td><td>Python, Algorithms, Data Structures</td><td><a href="https://github.com/oriolakolawole#-python-problem-solving-portfolio-leetcode-practice">Info</td></tr>
+ <tr><td>4</td><td>Lot Size Calculator</td><td>Python, Javascript, HTML, CSS, Git Action</td><td><a href="https://github.com/oriolakolawole#-lot-size-calculator">Info</td></tr>
    <tr><td>5</td><td>DevSecOps Security Automation Project</td><td>CI/CD, Jenkins, Cloud</td><td><a href="https://github.com/oriolakolawole#-devsecops-security-automation-project">Info</td></tr>
 </table>
 
