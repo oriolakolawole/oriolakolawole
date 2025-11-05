@@ -39,7 +39,7 @@ Data Scientist with experience in data engineering, ML model development, time-s
   - Developed a synthetic signal classification system spanning the entire radio spectrum (ELF to EHF) to classify synthetic signals based on features extracted from real-world signals.  
   - Utilized GNU Radio for synthetic signal generation across various modulation schemes and channel conditions, and **Python** for automation, machine learning, and data processing.  
   - Trained and validated machine learning models for accurate synthetic signal classification and integrated all modules into a cohesive system.  
-- **Link:** 🔒 Confidential   
+- **Link:** Unavailable   
 
 ---
 ### 🔹 Python Problem-Solving Portfolio (LeetCode Practice)  
