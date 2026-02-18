@@ -6,7 +6,7 @@ Data Scientist with experience in data engineering, ML model development, time-s
 
 <table>
   <tr><th>S/N</th><th>Project</th><th>Skills</th><th>Link</th></tr>
-  <tr><td>1</td><td>Ransomware Detection using Image-based Representation of Portable Executable Headers</td><td>CNN, Tensorflow, ResNet, Xception, VGG16, Pandas, Seaborn, Numpy, Python</td><td><a href="https://github.com/oriolakolawole/Ransomware-and-Goodware-PE-Header-Dataset.git">Repo</td></tr>
+  <tr><td { padding: 15px 10px; }>1</td><td>Ransomware Detection using Image-based Representation of Portable Executable Headers</td><td>CNN, Tensorflow, ResNet, Xception, VGG16, Pandas, Seaborn, Numpy, Python</td><td><a href="https://github.com/oriolakolawole/Ransomware-and-Goodware-PE-Header-Dataset.git">Repo</td></tr>
   <tr><td>2</td><td>Credit Default Risk Modelling</td><td>XGBoost, Feature Selection via RandomForestClassifier, Classification metrics </td><td><a href="https://github.com/oriolakolawole/Credit-Default-Risk.git">Repo</td></tr>
   <tr><td>3</td><td>OSINT Signals Classifier & Synthesizer</td><td>Python, Random Forest, SVM, Pandas</td><td><a href="#">confidential</td></tr>
   <tr><td>3</td><td>OSINT Signals Classifier & Synthesizer</td><td>Python, Random Forest, SVM, Pandas</td><td><a href="https://github.com/oriolakolawole#-osint-signals-classifier--synthesizer">Info</td></tr>
