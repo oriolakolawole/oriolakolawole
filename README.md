@@ -13,7 +13,7 @@
 | [**Pricing Commodity Storage Contract**](https://github.com/oriolakolawole/Pricing-Commodity-Storage-Contract) | Forecasts natural gas prices with Meta Prophet (2.8% MAPE), then prices a full storage contract across injection, withdrawal, storage and transaction costs | `Prophet` `pandas` `scikit-learn` |
 | [**Monte Carlo Pricing — Prop Firm Challenges**](https://github.com/oriolakolawole/Monte-Carlo-Pricing-Framework-for-Prop-Firm) | Models prop firm challenges as down-and-out barrier options. 150k simulation paths. Derives EV, ROI and break-even fee with a full Greeks analogy | `Monte Carlo` `Options` `numpy` `scipy` |
 | [**Detecting Regime Change**](https://github.com/oriolakolawole/Detecting-Regime-Change) | Statistical detection of structural breaks in financial time series; applicable to risk management and strategy allocation across market regimes | `Markov Switching Model` `Econometrics` `Time Series` `Python`|
-| [**Unit Root Test — S&P 500**](https://github.com/oriolakolawole/Unit-Root-Test) | Augmented Dickey-Fuller (ADF) + KPSS tests on S&P 500 monthly prices confirming I(1) log-price and I(0) log-return — foundational rigor for any time-series model | `statsmodels` `ADF` `KPSS` `stationarity tests` |
+| [**Unit Root Test — S&P 500**](https://github.com/oriolakolawole/Unit-Root-Test) | Augmented Dickey-Fuller (ADF) + KPSS tests on S&P 500 monthly prices confirming I(1) log-price and I(0) log-return; stationarity test for time-series data | `statsmodels` `ADF` `KPSS` `stationarity tests` |
 
 ---
 
