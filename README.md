@@ -36,7 +36,7 @@ I speak two languages: financial theory and applied statistics. Most of my work 
 ---
 
 ## Get in Touch
-> Open to quant research
+> Open to quant research roles
 - Email: oriolakolawole@gmail.com
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/oriolakolawole/)
 ---
