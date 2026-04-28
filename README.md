@@ -1,7 +1,7 @@
-# Oriola Kolawole
+# Kolawole Oriola
 
-**Quantitative Finance · Machine Learning · DevSecOps**  
-Building at the intersection of financial models and production systems.
+**Quantitative Finance · Machine Learning**  
+
 
 ---
 
