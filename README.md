@@ -34,16 +34,6 @@
 
 ---
 
-## Stack
-
-```
-Python · NumPy · Pandas · SciPy · statsmodels · Prophet · TensorFlow/Keras
-scikit-learn · yfinance · pandas_ta · JavaScript · HTML/CSS
-Jenkins · Docker · GitHub Actions · SonarQube · Jupyter
-```
-
----
-
 ## Get in Touch
 - Email: oriolakolawole@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/oriolakolawole/)
