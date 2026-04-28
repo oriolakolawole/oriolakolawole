@@ -20,8 +20,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Ransomware Detection via PE Header Visualisation**](https://github.com/oriolakolawole/Ransomware-Detection-using-Neural-Network) | Converts Windows PE header bytes into 32×32 images (upscaled to 256×256 RGB). Transfer learning with ResNet50, Xception and VGG16 across 26 ransomware families — binary + 26-class classification | `TensorFlow` `ResNet50` `Xception` `VGG16` |
-| [**ETF Directional Bias Prediction**](https://github.com/oriolakolawole/ETF-Directional-Bias-Prediction) | MLP trained on 323 technical indicators to predict next-day IVV direction. Feature selection via Pearson correlation + 10-fold stratified CV across 7 feature subset sizes | `scikit-learn` `MLP` `pandas_ta` `yfinance` |
+| [**Ransomware Detection via PE Header Visualisation**](https://github.com/oriolakolawole/Ransomware-Detection-using-Neural-Network) | Converts Windows PE header bytes into 32×32 images (upscaled to 256×256 RGB). Transfer learning with ResNet50, Xception and VGG16 across 26 ransomware families for binary & 26-class classification | `TensorFlow` `ResNet50` `Xception` `VGG16` `Feature Engineering`|
+| [**ETF Directional Bias Prediction**](https://github.com/oriolakolawole/ETF-Directional-Bias-Prediction) | MLP trained on 323 technical indicators to predict next-day IVV direction. Feature selection via Pearson correlation + 10-fold stratified CV across 7 feature subset sizes | `sklearn` `MLP` `pandas_ta` `Feature Selection` |
 
 ---
 
@@ -29,8 +29,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Lot Size Calculator**](https://github.com/oriolakolawole/lotsizeCal) | Deployed trading tool — calculates position sizing from risk % and stop-loss with live exchange rates auto-updated via GitHub Actions | `HTML` `JavaScript` `Python` `GitHub Actions` |
-| [**Integrating DevSecOps**](https://github.com/oriolakolawole/IntegratingDevSecOps) | End-to-end security automation pipeline: SAST with SonarQube, DAST with OWASP ZAP, container scanning with Trivy, secrets detection with Git-Secrets, and issue tracking in Jira | `Jenkins` `SonarQube` `OWASP ZAP` `Trivy` `Docker` |
+| [**Lot Size Calculator**](https://github.com/oriolakolawole/lotsizeCal) | Deployed a trading tool for calculating position sizing from risk % and stop-loss with live exchange rates auto-updated via GitHub Actions | `HTML` `JavaScript` `Python` `GitHub Actions` |
+| [**Integrating DevSecOps**](https://github.com/oriolakolawole/IntegratingDevSecOps) | End-to-end security automation pipeline: SAST with SonarQube, DAST with OWASP ZAP, container scanning with Trivy, secrets detection with Git-Secrets, and issue tracking in Jira | `Jenkins` `Jira` `CI/CD` `Docker` |
 
 ---
 
