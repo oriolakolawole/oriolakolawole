@@ -1,6 +1,7 @@
 # Kolawole Oriola
 
 **Quantitative Finance · Machine Learning**  
+I speak two languages: financial theory and applied statistics. Most of my work lives where they overlap.
 
 
 ---
@@ -35,6 +36,7 @@
 ---
 
 ## Get in Touch
+> Open to quant research
 - Email: oriolakolawole@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/oriolakolawole/)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/oriolakolawole/)
 ---
