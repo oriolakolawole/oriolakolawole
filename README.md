@@ -1,7 +1,7 @@
 # Kolawole Oriola
 
 **Quantitative Finance · Machine Learning**  
-I speak two languages: financial theory and applied statistics. Most of my work lives where they overlap.
+*I speak two languages: financial theory and applied statistics. Most of my work lives where they overlap.*
 
 
 ---
